@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: \https://komarev.com/ghpvc/?username=Mohamed-Hammouch&label=Profile%20views&color=0e75b6&style=flat
 👋 Yo, I’m Mohamed  <br>💻 I code, I learn, I build.  <br>🔥 Into all things dev — from logic to design.  <br>🌱 Currently leveling up my MERN game.  <br>📫 Hit me up: **m.hammouch.eng@gmail.com**
 
 
